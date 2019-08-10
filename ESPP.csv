@@ -1,0 +1,13 @@
+Quantity,Designator,Designation
+2,"C1,C3",1u
+1,C2,22n
+1,C4,100n
+2,"C5,C6",22p
+1,D1,BAT54C
+1,L1,Ferrite bead
+2,"Q1,Q2",MMBT3904
+2,"R1,R2",1k5
+2,"R3,R4",10k
+1,U1,RT9193
+1,U2,CH340G
+1,X1,12MHz
