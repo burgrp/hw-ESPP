@@ -128,7 +128,7 @@ U 1 1 5777B24C
 P 1600 3100
 F 0 "P1" V 1175 3024 50  0000 C CNN
 F 1 "USB_OTG" V 1266 3024 50  0000 C CNN
-F 2 "Drake:conn_usb_B_micro_smd-2" V 1550 3000 50  0001 C CNN
+F 2 "device.farm:conn_usb_B_micro_smd-2" V 1550 3000 50  0001 C CNN
 F 3 "" V 1550 3000 50  0000 C CNN
 	1    1600 3100
 	1    0    0    -1  
@@ -482,7 +482,7 @@ U 1 1 5A9A0D0B
 P 9050 2100
 F 0 "X2" H 9050 2550 60  0000 C CNN
 F 1 "ESP-PROG" H 9050 1650 60  0000 C CNN
-F 2 "Drake:Micro-Match-FOB-6" H 9300 2150 60  0001 C CNN
+F 2 "device.farm:Micro-Match-FOB-6" H 9300 2150 60  0001 C CNN
 F 3 "" H 9300 2150 60  0001 C CNN
 	1    9050 2100
 	-1   0    0    -1  
